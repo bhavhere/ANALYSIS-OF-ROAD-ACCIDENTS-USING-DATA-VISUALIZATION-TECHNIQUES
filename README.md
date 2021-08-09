@@ -1,5 +1,5 @@
 # ANALYSIS-OF-ROAD-ACCIDENTS-USING-DATA-VISUALIZATION-TECHNIQUES
-## INTRODUCTION
+## 1. INTRODUCTION
 ### 1.1 ABSTRACT
 <br>
 Roadway traffic safety is a major concern for transportation governing agencies as well as
@@ -31,7 +31,7 @@ weather, surface condition, causality severity, and driver age were investigated
 ● Finding how fast the number of car accidents drop off with age.</br>
 ● Finding the ratio of men and women who get injured in accidents.</br>
 <br>
-<h3> PROBLEM STATEMENT</h3>
+<h3>2. PROBLEM STATEMENT</h3>
 <br>
 Roadway traffic safety is a major concern for transportation governing agencies as well as
 ordinary citizens. In order to give safe driving suggestions, careful analysis of roadway traffic
@@ -40,3 +40,5 @@ having a high usage of vehicles. The vehicle consumption has drastically increas
 years from 6 million to 230 million vehicles. Due to the increasing rate of 9% vehicles per year,
 the occurrence of road accidents has increased exponentially which in turn has hampered the
 road security of the people in India.
+<h2>All details of the project are in the project report attached above, for source code ping me on linked in</h2>
+<br>
