@@ -7,12 +7,12 @@ ordinary citizens. In order to give safe driving suggestions, careful analysis o
 data is critical to find out variables that are closely related to fatal accidents. The relationship
 between fatal rate and other attributes including collision manner, weather, surface condition,
 causality severity, and driver age were investigated.
-<br>
+</br>
 Association rules were discovered by Apriori algorithm, classification model was built by Naive
 Bayes classifier, and clusters were formed by a simple K-means clustering algorithm. Certain
 safety driving suggestions were made based on statistics, association rules, classification model,
 and clusters obtained.
-<br>
+</br>
 ### 1.2 INTRODUCTION
 <br>
 Investigations of the high-risk areas for road traffic crashes (RTCs) are urgently needed to guide
