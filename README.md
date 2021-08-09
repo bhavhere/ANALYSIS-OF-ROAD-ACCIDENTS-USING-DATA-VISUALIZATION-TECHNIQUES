@@ -13,7 +13,7 @@ Bayes classifier, and clusters were formed by a simple K-means clustering algori
 safety driving suggestions were made based on statistics, association rules, classification model,
 and clusters obtained.
 </br>
-### 1.2 INTRODUCTION
+<h2>1.2 INTRODUCTION</h2>
 <br>
 Investigations of the high-risk areas for road traffic crashes (RTCs) are urgently needed to guide
 improvements in road safety. In this paper we apply statistics analysis and data visualisation
