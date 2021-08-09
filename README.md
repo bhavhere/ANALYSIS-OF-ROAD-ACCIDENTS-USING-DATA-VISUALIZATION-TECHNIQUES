@@ -1,16 +1,17 @@
-# ANALYSIS-OF-ROAD-ACCIDENTS-USING-DATA-VISUALIZATION-TECHNIQUES
-
-INTRODUCTION
+### ANALYSIS-OF-ROAD-ACCIDENTS-USING-DATA-VISUALIZATION-TECHNIQUES
+## INTRODUCTION
 1.1 ABSTRACT
 Roadway traffic safety is a major concern for transportation governing agencies as well as
 ordinary citizens. In order to give safe driving suggestions, careful analysis of roadway traffic
 data is critical to find out variables that are closely related to fatal accidents. The relationship
 between fatal rate and other attributes including collision manner, weather, surface condition,
 causality severity, and driver age were investigated.
+<br>
 Association rules were discovered by Apriori algorithm, classification model was built by Naive
 Bayes classifier, and clusters were formed by a simple K-means clustering algorithm. Certain
 safety driving suggestions were made based on statistics, association rules, classification model,
 and clusters obtained.
+<br>
 1.2 INTRODUCTION
 Investigations of the high-risk areas for road traffic crashes (RTCs) are urgently needed to guide
 improvements in road safety. In this paper we apply statistics analysis and data visualisation
